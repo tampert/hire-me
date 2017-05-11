@@ -15,6 +15,7 @@
 **I am** very good at:
 
 javascript, html, css
+
 **In addition** I am decent at:
 
 Php
