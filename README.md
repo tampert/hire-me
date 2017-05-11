@@ -32,3 +32,7 @@
 * Nodejs, PhantomJS 
 * Ruby 
 * ssh
+
+- - - -
+
+![picture alt](http://img.timeinc.net/time/photoessays/2010/hubble_telescope/hubble_telescope_10.jpg "Antennae Galaxies")
