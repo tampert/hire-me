@@ -11,6 +11,7 @@
 
 **My website** is at http://www.soentjens.nl.
 
+**My coding** experiments http://www.soentjens.nl/experiments/.
 # Technologies and Tools
 **I am** very good at:
 
@@ -32,6 +33,7 @@
 * Nodejs, PhantomJS 
 * Ruby 
 * ssh
+* Android Studio ~ adb
 
 - - - -
 
